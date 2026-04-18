@@ -52,5 +52,4 @@ Verified industry certifications demonstrating foundational and practical knowle
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+| AWS Account Hardening Project | <a href="https://docs.google.com/document/d/1yK6JozZAUIf2eavWhH6JQCJ7rDB72-1PY7RHht6y7f0/edit?usp=sharing">AWS Account Hardening Project</a> |
