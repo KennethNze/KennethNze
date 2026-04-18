@@ -1,17 +1,13 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Kenneth Nzeadibe
 <a href="https://www.linkedin.com/in/kennethnzeadibe/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a passion for technology, problem-solving, and hands-on learning. My interests include building practical projects, exploring new tools, and continuously strengthening my technical skills through real-world challenges.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My goal is to begin my career in penetration testing, build strong offensive security skills through hands-on experience, and eventually transition into cloud security to help organizations secure modern cloud environments.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                | Associated Project                                                                 |
 |--------------------------------------|------------------------------------------------------------------------------------|
@@ -19,7 +15,6 @@ My goal is to begin my career in penetration testing, build strong offensive sec
 | Command Line Interface (CLI)         | <a href="https://www.codecademy.com/learn/learn-the-command-line">Command Line Course</a> |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -52,4 +47,7 @@ Verified industry certifications demonstrating foundational and practical knowle
 </div>
 
 ## Projects
+| Project | Link |
+|---------|------|
 | AWS Account Hardening Project | <a href="https://docs.google.com/document/d/1yK6JozZAUIf2eavWhH6JQCJ7rDB72-1PY7RHht6y7f0/edit?usp=sharing">AWS Account Hardening Project</a> |
+| Linux Baseline Automation Project | <a href="https://docs.google.com/document/d/16l2Cr4fR7MhIMOOw8eOFVaI34FxUUXq75twGIjYhKQg/edit?usp=sharing">Linux Baseline Automation Project</a> |
