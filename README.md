@@ -23,9 +23,9 @@ My goal is to begin my career in penetration testing, build strong offensive sec
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <a href="https://docs.google.com/document/d/1hpxIrtW3B5XLeoGjjtoA763pVElI8-CgrXwdRv6vUAE/edit?usp=sharing">
+        <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    </a>
 </div>
 
 
