@@ -24,16 +24,10 @@ My goal is to begin my career in penetration testing, build strong offensive sec
     </a>
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-DNS-1E90FF?&style=for-the-badge&logoColor=white" />
-    <a href="images/Cisco-Packet-Tracer-1.png">
+    <a href="https://github.com/KennethNze/KennethNze/blob/main/images/Cisco%20Packet%20tracer%201.png">
         <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
 </div>
-
-<br>
-
-<p align="left">
-  <img src="images/Cisco-Packet-Tracer-1.png" alt="Cisco Packet Tracer Topology" width="700"/>
-</p>
 
 
 ## Certifications
