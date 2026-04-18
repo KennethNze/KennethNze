@@ -13,14 +13,10 @@ My goal is to begin my career in penetration testing, build strong offensive sec
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Python Code                      | <a href="https://github.com/KennethNze/Getting-Ready-for-Physics-Class-/commit/9c20ce629c88bae79a239f5c2cf7214a4e617619">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                | Associated Project                                                                 |
+|--------------------------------------|------------------------------------------------------------------------------------|
+| Python                               | <a href="https://github.com/KennethNze/Getting-Ready-for-Physics-Class-/commit/9c20ce629c88bae79a239f5c2cf7214a4e617619">Python Project</a> |
+| Command Line Interface (CLI)         | <a href="https://www.codecademy.com/learn/learn-the-command-line">Command Line Course</a> |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -32,27 +28,27 @@ My goal is to begin my career in penetration testing, build strong offensive sec
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+Verified industry certifications demonstrating foundational and practical knowledge in cybersecurity, IT support, and network operations.
+
+<div align="left">
+
+  <a href="https://www.credly.com/badges/5ad24308-5d76-4914-aca8-d24ea1c00a4e/public_url">
+    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+
+  <a href="https://www.credly.com/badges/f3cf0f79-6c38-4c4b-aff3-c3dfc399d727/public_url">
+    <img src="https://img.shields.io/badge/-CompTIA%20A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/-CompTIA%20Network%2B%20(Pending)-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-CDSA%20(Pending)-006400?&style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-CCD%20(Pending)-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
