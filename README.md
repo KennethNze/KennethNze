@@ -13,6 +13,7 @@ My goal is to begin my career in penetration testing, build strong offensive sec
 |--------------------------------------|------------------------------------------------------------------------------------|
 | Python                               | <a href="https://github.com/KennethNze/Getting-Ready-for-Physics-Class-/commit/9c20ce629c88bae79a239f5c2cf7214a4e617619">Python Project</a> |
 | Command Line Interface (CLI)         | <a href="https://www.codecademy.com/learn/learn-the-command-line">Command Line Course</a> |
+| Bash Scripting                       | <a href="https://docs.google.com/document/d/12p8JhJyeUpRTiTcmtXmNhTGnB5IdOZVWlYfLf52fpoo/edit?usp=sharing">Bash Scripting Project</a> |
 
 ## Tools
 
@@ -21,7 +22,18 @@ My goal is to begin my career in penetration testing, build strong offensive sec
     <a href="https://docs.google.com/document/d/1hpxIrtW3B5XLeoGjjtoA763pVElI8-CgrXwdRv6vUAE/edit?usp=sharing">
         <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     </a>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-DNS-1E90FF?&style=for-the-badge&logoColor=white" />
+    <a href="images/Cisco-Packet-Tracer-1.png">
+        <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
 </div>
+
+<br>
+
+<p align="left">
+  <img src="images/Cisco-Packet-Tracer-1.png" alt="Cisco Packet Tracer Topology" width="700"/>
+</p>
 
 
 ## Certifications
