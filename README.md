@@ -51,3 +51,4 @@ Verified industry certifications demonstrating foundational and practical knowle
 |---------|------|
 | AWS Account Hardening Project | <a href="https://docs.google.com/document/d/1yK6JozZAUIf2eavWhH6JQCJ7rDB72-1PY7RHht6y7f0/edit?usp=sharing">AWS Account Hardening Project</a> |
 | Linux Baseline Automation Project | <a href="https://docs.google.com/document/d/16l2Cr4fR7MhIMOOw8eOFVaI34FxUUXq75twGIjYhKQg/edit?usp=sharing">Linux Baseline Automation Project</a> |
+| CYB 300 Module Three Lab Worksheet One | <a href="https://docs.google.com/document/d/1fAC1ReN372YiX-YJKwY7pMtRLmdxkRfoWgd8oU1G25k/edit?usp=sharing">CYB 300 Module Three Lab Worksheet One</a> |
