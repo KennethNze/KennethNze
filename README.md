@@ -5,7 +5,8 @@ I am a cybersecurity professional with hands-on experience in security operation
 
 ## Objective
 
-My goal is to begin my career in cybersecurity through roles such as SOC Analyst, Cybersecurity Analyst, Vulnerability Management Analyst, Junior GRC Analyst, or Junior Security Analyst. I am building a strong foundation in defensive security, system hardening, cloud security, and security operations while continuing to expand my hands-on technical experience.
+My goal is to build my career in Identity and Access Management (IAM) and polish my skills to better reflect an IAM Architect role. I am developing a strong foundation in Microsoft Entra ID, privileged access management, authentication, authorization, RBAC, Conditional Access, identity governance, MFA, SSO, and Zero Trust principles. I am continuing to expand my hands-on experience with technologies such as Microsoft Entra ID, CyberArk, cloud identity, hybrid identity, application access, and privileged identity management while building the technical and architectural skills needed to design secure and scalable IAM solutions for a business.
+
 
 ## Skills
 
